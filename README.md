@@ -2,17 +2,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [**pixel-cnn++ (enhanced)**](#pixel-cnn-enhanced)
-  - [0. Overview (Seeing the bigger picture)](#0-overview-seeing-the-bigger-picture)
-  - [1. Support for MNIST dataset](#1-support-for-mnist-dataset)
-  - [2. CoordConv (translation dependencies)](#2-coordconv-translation-dependencies)
-  - [3. Non-Local Neural Networks (long range dependencies)](#3-non-local-neural-networks-long-range-dependencies)
-  - [4. Focal Loss for Dense Object Detection](#4-focal-loss-for-dense-object-detection)
-- [**Original Text**](#original-text)
-  - [Setup](#setup)
-  - [Training the model](#training-the-model)
-  - [Pretrained model checkpoint](#pretrained-model-checkpoint)
-  - [Citation](#citation)
+- [**Camera Motion Detection**](#camera-motion-detection)
+  - [0. Overview](#0-overview)
+  - [1. Visualisation](#1-visualisation)
+  - [2. Implementation](#2-implementation)
+  - [3. Extracting from video stream](#3-extracting-from-video-stream)
+  - [4. Usage](#4-usage)
+  - [5. Libraries](#5-libraries)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
